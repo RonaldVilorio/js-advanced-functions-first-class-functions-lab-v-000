@@ -20,6 +20,6 @@ const fareDoubler = function(fare){
 const fareTripler = function(fare){
   return fare * 3
 }
-cons selectDifferentDrivers(drivers,fn){
+const selectDifferentDrivers = function(drivers,fn){
   
 }
