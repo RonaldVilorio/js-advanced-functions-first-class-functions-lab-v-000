@@ -11,4 +11,5 @@ const selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers]
 
 const createFareMultiplier = function(num){
   // debugger
+  return num * num
 }
