@@ -13,3 +13,7 @@ const createFareMultiplier = function(num){
   // debugger
   return function(num){return num * num}
 }
+
+const fareDoubler = function(){
+  
+}
