@@ -7,6 +7,6 @@ const returnLastTwoDrivers = function(drivers){
   // debugger
   return drivers.slice(-2).map(function(driver){return driver})
 }
-const selectingDrivers = function(returnFirstTwoDrivers,returnLastTwoDrivers){
-  
+const selectingDrivers = function(drivers){
+  retr
 }
