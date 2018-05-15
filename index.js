@@ -4,5 +4,6 @@ const returnFirstTwoDrivers = function (drivers){
   return drivers.slice(0,2).map(function(driver){return driver})
 }
 const returnLastTwoDrivers = function(drivers){
-  return drivers.slice(drivers.length - 1, -2)
+  debugger
+  return drivers.slice(drivers.length - 1, -2).map
 }
